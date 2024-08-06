@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalaya Grimshaw
 - 👀 I’m interested in building websites and mobile apps.
-- 🌱 I’m currently learning html, css, JS and various Frameworks like Bootstrap and Tailwind that will be useful for Frond-End web development.
+- 🌱 I’m currently learning React, Next js, Typescript and Tailwind that will be useful for Frond-End web development.
 - 📫 How to reach me kalaya.grimshaw@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I started learning how to code just to encourage my children and help them with coding then I couldn't stop wanting to know more about it. 
